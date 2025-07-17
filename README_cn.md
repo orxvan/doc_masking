@@ -1,3 +1,4 @@
+[**English**](./README.md) | [**中文**](README_cn.md)
 # 工具描述
 可对folder_path下的docx和doc文件进行文件名关键字替换，简易实现脱敏的功能。
 
